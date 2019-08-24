@@ -10,8 +10,9 @@ namespace prueba1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("primer cambio");
+          
             Console.WriteLine("segundo cambio");
+            Console.WriteLine("tecrcer cambio");
             ;        }
     }
 }
